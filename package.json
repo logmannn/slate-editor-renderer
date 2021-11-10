@@ -1,9 +1,9 @@
 {
-  "name": "@keethealth/slate-editor-renderer",
+  "name": "@logmannn/slate-editor-renderer",
   "version": "1.5.0",
   "description": "Renderers for slate nodes and marks",
   "main": "lib/index.js",
-  "author": "",
+  "author": "Logan Tanous <logan.tanous@keethealth.com>",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -26,5 +26,6 @@
     "react-resizable": "^1.7.5",
     "slate-edit-table": "^0.15.0-alpha.4"
   },
-  "gitHead": "bb30f8746be7cbe2cda641b6b74c9d976bb56e31"
+  "gitHead": "bb30f8746be7cbe2cda641b6b74c9d976bb56e31",
+  "repository": "https://github.com/logmannn/slate-editor-renderer.git"
 }
